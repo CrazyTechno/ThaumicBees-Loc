@@ -2,98 +2,98 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">    
     <!-- Item names -->
-    <entry key="item.jellyBabies.name">Handful of Jelly Babies</entry>
-    <entry key="item.tb.thaumiumScoop.name">Thaumium Scoop</entry>
-    <entry key="item.tb.thaumiumGrafter.name">Thaumium Grafter</entry>
+    <entry key="item.jellyBabies.name">Горсть Маленького Желе</entry>
+    <entry key="item.tb.thaumiumScoop.name">Таумический Сачок</entry>
+    <entry key="item.tb.thaumiumGrafter.name">Таумический Садовый Нож</entry>
     
     <!-- Block names -->
-	<entry key="tile.tb.planks.greatwood.name">Greatwood Planks</entry>
-	<entry key="tile.tb.slab.wood.greatwood.name">Greatwood Slab</entry>
-	<entry key="tile.tb.planks.silverwood.name">Silverwood Planks</entry>
-	<entry key="tile.tb.slab.wood.silverwood.name">Silverwood Slab</entry>
+	<entry key="tile.tb.planks.greatwood.name">Доски Великого Дерева</entry>
+	<entry key="tile.tb.slab.wood.greatwood.name">Плита Великого Дерева</entry>
+	<entry key="tile.tb.planks.silverwood.name">Доски Сильвервуда</entry>
+	<entry key="tile.tb.slab.wood.silverwood.name">Плиты Сильвервуда</entry>
     
     <!-- Comb names -->
-    <entry key="tb.comb.occult">Occult Comb</entry>
-    <entry key="tb.comb.otherworldly">Otherworldy Comb</entry>
-    <entry key="tb.comb.paper">Papery Comb</entry>
-    <entry key="tb.comb.stark">Stark Comb</entry>
-    <entry key="tb.comb.air">Airy Comb</entry>
-    <entry key="tb.comb.fire">Firey Comb</entry>
-    <entry key="tb.comb.water">Watery Comb</entry>
-    <entry key="tb.comb.earth">Earthy Comb</entry>
-    <entry key="tb.comb.magic">Infused Comb</entry>
-    <entry key="tb.comb.aware">Memory Comb</entry>
-    <entry key="tb.comb.furtive">Furtive Comb</entry>
+    <entry key="tb.comb.occult">Оккультические Соты</entry>
+    <entry key="tb.comb.otherworldly">Потусторонние Соты</entry>
+    <entry key="tb.comb.paper">Бумажные Соты</entry>
+    <entry key="tb.comb.stark">Абсолютные Соты</entry>
+    <entry key="tb.comb.air">Воздушные Соты</entry>
+    <entry key="tb.comb.fire">Огненные Соты</entry>
+    <entry key="tb.comb.water">Водяные Соты</entry>
+    <entry key="tb.comb.earth">Земляные Соты</entry>
+    <entry key="tb.comb.magic">Зраяженные Соты</entry>
+    <entry key="tb.comb.aware">Памятные Соты</entry>
+    <entry key="tb.comb.furtive">Незаметные Соты</entry>
     
     <!-- Wax names -->
-    <entry key="tb.wax.magic">Magic Wax</entry>
+    <entry key="tb.wax.magic">Магичнский Воск</entry>
     
     <!-- Drop names -->
-    <entry key="tb.drop.enchanting">Enchanting Drop</entry>
-    <entry key="tb.drop.intellect">Intellect Drop</entry>
+    <entry key="tb.drop.enchanting">Зачарованая Капля</entry>
+    <entry key="tb.drop.intellect">Интеллектуальная Капля</entry>
     
     <!-- Pollen names -->
-    <entry key="tb.pollen.unusual">Unusual Pollen</entry>
-	<entry key="tb.pollen.phased">Phased Pollen</entry>
+    <entry key="tb.pollen.unusual">Необычная Пыльца</entry>
+	<entry key="tb.pollen.phased">Поэтепная Пыльца</entry>
     
     <!-- Propolis names -->
-    <entry key="tb.propolis.dull">Dull Propolis</entry>
-    <entry key="tb.propolis.air">Breezey Propolis</entry>
-    <entry key="tb.propolis.fire">Burning Propolis</entry>
-    <entry key="tb.propolis.water">Flowing Propolis</entry>
-    <entry key="tb.propolis.earth">Stony Propolis</entry>
-    <entry key="tb.propolis.magic">Infused Propolis</entry>
+    <entry key="tb.propolis.dull">Тупой Прополис</entry>
+    <entry key="tb.propolis.air">Прохладный Пропорлис</entry>
+    <entry key="tb.propolis.fire">Горящий Прополис</entry>
+    <entry key="tb.propolis.water">Текущий Прополис</entry>
+    <entry key="tb.propolis.earth">Каменный Прополис</entry>
+    <entry key="tb.propolis.magic">Заряженный Прополис</entry>
     
     <!-- Misc Resources -->
-    <entry key="tb.resource.fragment">Lore Fragment</entry>
-    <entry key="tb.resource.lump">Aromatic Lump</entry>
-    <entry key="tb.resource.fertilizer">Concentrated Compound</entry>
-    <entry key="tb.resource.crystalFlux">Crystalized %s Aspect</entry>
+    <entry key="tb.resource.fragment">Фрагмент Знаний</entry>
+    <entry key="tb.resource.lump">Ароматическая Лампа</entry>
+    <entry key="tb.resource.fertilizer">Концентрированные соединения</entry>
+    <entry key="tb.resource.crystalFlux">Кристаллизованный %s Аспект</entry>
     
     <!-- Frames -->
-    <entry key="tb.frame.magic">Magic Frame</entry>
-    <entry key="tb.frame.resillient">Resilient Frame</entry>
-    <entry key="tb.frame.gentle">Gentle Frame</entry>
-    <entry key="tb.frame.metabolic">Metabolic Frame</entry>
-    <entry key="tb.frame.necrotic">Necrotic Frame</entry>
-    <entry key="tb.frame.temporal">Temporal Frame</entry>
+    <entry key="tb.frame.magic">Магическая Рамка</entry>
+    <entry key="tb.frame.resillient">Эластичная Рамка</entry>
+    <entry key="tb.frame.gentle">Нежная Рамка</entry>
+    <entry key="tb.frame.metabolic">Метобалическая Рамка</entry>
+    <entry key="tb.frame.necrotic">Некротическая Рамка</entry>
+    <entry key="tb.frame.temporal">Временная Рамка</entry>
     
     <!-- Capsule names -->
-    <entry key="tb.capsule.magic">Magic Capsule</entry>
-    <entry key="tb.capsule.void">Void Capsule</entry>
+    <entry key="tb.capsule.magic">Магическая Капсула</entry>
+    <entry key="tb.capsule.void">Пустотная Капсула</entry>
     
     <!-- Liquids -->
-    <entry key="tb.liquid.">Empty</entry>
-    <entry key="tb.liquid.water">Water</entry>
-    <entry key="tb.liquid.lava">Lava</entry>
-    <entry key="tb.liquid.biomass">Biomass</entry>
-    <entry key="tb.liquid.biofuel">Empty</entry>
-    <entry key="tb.liquid.Oil">Oil</entry>
-    <entry key="tb.liquid.Fuel">Fuel</entry>
-    <entry key="tb.liquid.seedoil">Seed Oil</entry>
-    <entry key="tb.liquid.honey">Honey</entry>
-    <entry key="tb.liquid.juice">Juice</entry>
-    <entry key="tb.liquid.ice">Ice</entry>
-    <entry key="tb.liquid.milk">Milk</entry>
-    <entry key="tb.liquid.acid">Acid</entry>
-    <entry key="tb.liquid.poison">Poison</entry>
-    <entry key="tb.liquid.liquidNitrogen">Liquid Nitrogen</entry>
-    <entry key="tb.liquid.liquidDNA">Liquid DNA</entry>
-    <entry key="tb.liquid.Creosote Oil">Creosote Oil</entry>
-    <entry key="tb.liquid.Steam">Steam</entry>
+    <entry key="tb.liquid.">Пустая</entry>
+    <entry key="tb.liquid.water">Вода</entry>
+    <entry key="tb.liquid.lava">Лава</entry>
+    <entry key="tb.liquid.biomass">Биомасса</entry>
+    <entry key="tb.liquid.biofuel">Биотопливная</entry>
+    <entry key="tb.liquid.Oil">Нефтяная</entry>
+    <entry key="tb.liquid.Fuel">Дизельно Топливная</entry>
+    <entry key="tb.liquid.seedoil">Подсолнечная</entry>
+    <entry key="tb.liquid.honey">Медная/entry>
+    <entry key="tb.liquid.juice">Фруктовая</entry>
+    <entry key="tb.liquid.ice">Ледяная</entry>
+    <entry key="tb.liquid.milk">Молочная</entry>
+    <entry key="tb.liquid.acid">Кислотная</entry>
+    <entry key="tb.liquid.poison">Ядовитая</entry>
+    <entry key="tb.liquid.liquidNitrogen">Жидкий Азот</entry>
+    <entry key="tb.liquid.liquidDNA">Жидкий ДНК</entry>
+    <entry key="tb.liquid.Creosote Oil">Креозотное Масло</entry>
+    <entry key="tb.liquid.Steam">Пар</entry>
     
     <!-- Moon Phases -->
-    <entry key="tb.moon.full">Full Moon</entry>
-    <entry key="tb.moon.gibbousWaning">Waning Gibbous</entry>
-    <entry key="tb.moon.gibousWaxing">Waxing Gibbous</entry>
-    <entry key="tb.moon.halfWaning">Waning Half</entry>
-    <entry key="tb.moon.halfWaxing">Waxing Half</entry>
-    <entry key="tb.moon.crescentWaning">Waning Crescent</entry>
-    <entry key="tb.moon.crescentWaxing">Waxing Crescent</entry>
-    <entry key="tb.moon.new">New Moon</entry>
+    <entry key="tb.moon.full">Полная Луна</entry>
+    <entry key="tb.moon.gibbousWaning">Убывающая луна</entry>
+    <entry key="tb.moon.gibousWaxing">Растущая луна</entry>
+    <entry key="tb.moon.halfWaning">Убывающая половина</entry>
+    <entry key="tb.moon.halfWaxing">Растущая половина</entry>
+    <entry key="tb.moon.crescentWaning">Убывающая луна</entry>
+    <entry key="tb.moon.crescentWaxing">Растущая луна</entry>
+    <entry key="tb.moon.new">Новая Луна</entry>
     
     <!-- Miscellaneous names -->
-    <entry key="tb.backpack.thaumaturge">Thaumaturge's Backpack</entry>
+    <entry key="tb.backpack.thaumaturge">Таумотургический Рюкзак</entry>
     
     <!-- Species names -->
     <entry key="thaumicbees.speciesEsoteric">Esoteric</entry>
@@ -156,35 +156,35 @@
     <entry key="thaumicbees.speciesDoctoral.description">"Would you like a Jelly Baby?"|Passing stranger with a great scarf and a blue box</entry>
 	
 	<!-- Bee Alleles -->
-	<entry key="thaumicbees.effectCurative">Cleansing</entry>
-	<entry key="thaumicbees.effecteffectDigSpeed">Mining</entry>
-	<entry key="thaumicbees.effecteffectMoveSpeed">Swiftness</entry>
-	<entry key="thaumicbees.effecteffectSlowSpeed">Time Warp</entry>
-	<entry key="thaumicbees.effectNodeGeneration">Aura Attract</entry>
-	<entry key="thaumicbees.effectBrainy">Brainy</entry>
-	<entry key="thaumicbees.effectBatty">Batty</entry>
-	<entry key="thaumicbees.effectWispy">Wispy</entry>
-	<entry key="thaumicbees.Ghast">Ghastly</entry>
-	<entry key="tb.bees.flower.book">Books</entry>
-	<entry key="tb.bees.flower.magic">Magic Flowers</entry>
-	<entry key="tb.bees.flower.node">Node</entry>
-	<entry key="tb.bees.flower.nodePure">Purify Node</entry>
-	<entry key="tb.bees.flower.nodeFlux">Fluxify Node</entry>
+	<entry key="thaumicbees.effectCurative">Очищающая</entry>
+	<entry key="thaumicbees.effecteffectDigSpeed">Добывающая</entry>
+	<entry key="thaumicbees.effecteffectMoveSpeed">Ускоряющая</entry>
+	<entry key="thaumicbees.effecteffectSlowSpeed">Искревляющая Время</entry>
+	<entry key="thaumicbees.effectNodeGeneration">Привлеченная Аурой</entry>
+	<entry key="thaumicbees.effectBrainy">Умная</entry>
+	<entry key="thaumicbees.effectBatty">Сумашедшая</entry>
+	<entry key="thaumicbees.effectWispy">Призрачная</entry>
+	<entry key="thaumicbees.Ghast">Ужасная</entry>
+	<entry key="tb.bees.flower.book">Книги</entry>
+	<entry key="tb.bees.flower.magic">Магические Цветы</entry>
+	<entry key="tb.bees.flower.node">Узел</entry>
+	<entry key="tb.bees.flower.nodePure">Очищающая Узел</entry>
+	<entry key="tb.bees.flower.nodeFlux">Загрезняющая Узел</entry>
 	
 	<!-- Classifications -->
-	<entry key="classification.arcane">Arcane</entry>
+	<entry key="classification.arcane">Тайныее</entry>
 	<entry key="classification.arcane.description"></entry>
-	<entry key="classification.supernatural">Supernatural</entry>
+	<entry key="classification.supernatural">Сверхестественные</entry>
 	<entry key="classification.supernatural.description"></entry>
-	<entry key="classification.scholarly">Scholarly</entry>
+	<entry key="classification.scholarly">Научные</entry>
 	<entry key="classification.scholarly.description"></entry>
-	<entry key="classification.thaumic">Thaumic</entry>
+	<entry key="classification.thaumic">Таумические</entry>
 	<entry key="classification.thaumic.description"></entry>
-	<entry key="classification.skulking">Skulking</entry>
+	<entry key="classification.skulking">Прячующиеся</entry>
 	<entry key="classification.skulking.description"></entry>
 	<entry key="classification.vis">Vis</entry>
 	<entry key="classification.vis.description"></entry>
-	<entry key="classification.time">Time</entry>
+	<entry key="classification.time">Временные</entry>
 	<entry key="classification.time.description"></entry>
 	
     
